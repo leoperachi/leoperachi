@@ -7,6 +7,11 @@ My name's Leonardo A. Perachi.
   
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoperachi/)
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoperachi&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoperachi&layout=compact&theme=tokyonight"/>
+</div>
+
 ## 🛠️ Technologies e Tools I am working:
 
 <div>
